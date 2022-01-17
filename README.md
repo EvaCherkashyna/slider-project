@@ -36,7 +36,7 @@ function slideIt(direction) {
 
 To view the pictures, just click on the arrow buttons or press the `up` or `down` keys.
 
-![project](https://media3.giphy.com/media/FqxSLEbRQvwnvo8Bnw/giphy.gif?cid=790b76114a4f475b4c038a605015ef1b8541735b056184c7&rid=giphy.gif&ct=g)
+![project](https://i.giphy.com/media/FqxSLEbRQvwnvo8Bnw/giphy.webp)
 
 # Live Demo
 
