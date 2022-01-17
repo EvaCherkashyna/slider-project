@@ -45,7 +45,7 @@ For the convenience of viewing my project, follow the instructions:
 + after clicking on the link, enlarge the project window, as shown in the video
 + press the `RUN` button in the top left corner and enjoy!  [Slider-link](https://jsfiddle.net/5yz96xjo/)
 
-![instruction project](https://media3.giphy.com/media/75MVRB9voRoZukckhs/giphy.gif?cid=790b761180a6985d367f58ca0f23e46277f3e3e2eac76453&rid=giphy.gif&ct=g)
+![instruction project](https://i.giphy.com/media/75MVRB9voRoZukckhs/giphy.webp)
 
 # Download instructions
 ![photo-instruction](./readme/img4.png)
